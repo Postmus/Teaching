@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: "docs"
 
 website:
   title: "My Courses"
@@ -10,9 +11,9 @@ website:
       - text: "Beyond MLR"
         menu:
           - text: "Lab 1"
-            href: Beyond MLR/BLR_lab1.qmd
+            href: Beyond_MLR/BLR_lab1.qmd
           - text: "Lab 2"
-            href: Beyond MLR/BLR_lab2.qmd
+            href: Beyond_MLR/BLR_lab2.qmd
       
 format:
   html:
