@@ -1,13 +1,5 @@
 ---
-title: "Statistics labs"
+title: "Welcome to the Course Labs Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-dsdsdfs
+This website provides accompanying R and SPSS labs for the various statistics courses you are enrolled in. You can navigate to your specific course using the menu above to access weekly labs, assignments, and additional resources relevant to your course material.
